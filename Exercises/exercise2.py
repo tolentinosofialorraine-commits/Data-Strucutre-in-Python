@@ -36,3 +36,25 @@ print(message)
 
 print("--------------------------------")
 
+# Addition
+print("Addition: 5 + 3 =", 5 + 3)
+
+# Subtraction
+print("Subtraction: 10 - 2 =", 10 - 2)
+
+# Multiplication
+print("Multiplication: 4 * 2 =", 4 * 2)
+
+# Division
+print("Division: 16 / 2 =", 16 / 2)
+
+print("--------------------------------")
+
+# Store your favorite number in a variable
+favorite_number = 20
+
+# Create a message using that variable
+message = "My favorite number is " + str(favorite_number) + "."
+
+# Print the message
+print(message)
